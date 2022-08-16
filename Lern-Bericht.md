@@ -30,7 +30,9 @@ Wir wollten eine Mauer bauen, um eines der Beete meiner Grossmutter auszuschmüc
 Medien und wie diese meinen Lernprozess schildern:
 
 Text:     Der Text begleitet den Leser Schritt für Schritt durch meine Aktionen und dass, was ich gelernt habe.
+
 GIF:      Das animierte Bild zeigt meine Arbeit des Umgrabens des Beetes meiner Grossmutter. Man sieht, wie ich das gelernte angewendet habe.
+
 Bild:     Das Bild zeigt meine Arbeit des Bauens einer Mauer. Man sieht, wie ich das Gelernte angewandt habe.
 
 # Reflektion zum Arbeitsprozess
